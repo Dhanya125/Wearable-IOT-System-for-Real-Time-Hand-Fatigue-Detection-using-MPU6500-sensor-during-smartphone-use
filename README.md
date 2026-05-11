@@ -1,0 +1,1 @@
+# Wearable-IOT-System-for-Real-Time-Hand-Fatigue-Detection-using-MPU6500-sensor-during-smartphone-use
